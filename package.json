@@ -2,7 +2,7 @@
   "name": "my-project",
   "version": "1.0.0",
   "scripts": {
-    "build": "node index.js"
+    "build": "node index.js",
     "dev": "node index.js"
   }
 }
